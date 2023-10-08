@@ -6,5 +6,13 @@ Problem Statement:
 
 
 Tools Used:
-          
+           1. Pandas
+           2. Numpy
+           3. MatplotLib
+           4. Seaborn
+           5. Geopy
+           6. ScikitLearn
+           7. Jupyter NoteBook
+
+
           
