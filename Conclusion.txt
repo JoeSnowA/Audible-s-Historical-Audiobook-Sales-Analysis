@@ -1,0 +1,42 @@
+Based on the feature importance given by Best Machine Learning Algorithm(Extreme Gradient Boosting) we conclude that some features that affects books sales given below:
+        
+● Mainly Time of the audible affects the sale very hard . Duration between 260-407(in minutes) performs better than others.
+
+◉ Language of the audible also affects the price in effective manner . Some of the performed Languages given below:
+            1. English
+            2. Chinese
+            3. Mandarin
+            4. French
+            5. Slovene
+            6. Hebrew
+            7. Urdu
+            8. Korean
+            9. Afrikaans and few others too....
+            
+◉ Narrators affects the sale in decent manner . Best Narrator are given below:
+            1. masahiro yajima, yu ishibashi                        
+            2. intuitive    
+            3. uncredited                         
+            4. takayuki nakanishi, bj                        
+            5. bookbuddydigitalmedia            
+            6. div             
+            7. dmitry evstratov                               
+            8. billbrown                  
+            9. seanpratt                         
+            
+            # Top narrators are suggested above except the anonymous narrator's information
+        
+◉ Authors also affects the price and the best authors are:
+            1. masahiro yajima, yu ishibashi    
+            2. smartreading                     
+            3. takayuki nakanishi, bj           
+            4. div                              
+            5. onlinestudioproductions          
+            6. williamshakespeare               
+            7. billbrown                        
+            8. j.m.gardner                      
+            9. innovativelanguagelearning       
+           10. gertrudechandlerwarner   
+        
+◉ Star_rating affects the price in less percentage only. 2.5, 4.0, 4.5, 5.0 rated books performed well.
+◉ Yearwise, 2023 launched audibles affected the price well.
