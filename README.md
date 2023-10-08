@@ -14,5 +14,13 @@ Tools Used:
            6. ScikitLearn
            7. Jupyter NoteBook
 
+Summary:
+      After importing the CSV file, convert it into a dataframe. 
+      Then, clean the unstructured and imbalanced data to create a structured format. 
+      Perform data cleansing, followed by exploratory data analysis and visualization using Matplotlib and Seaborn. 
+      Finally, utilize the scikit-learn library to build machine learning algorithms. 
+      Determine feature importance using XGBoost's feature_importance function.
+      Finally, suggest the important features that affects both the Price and Sales of audiobooks.
+
 
           
